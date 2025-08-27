@@ -1,0 +1,206 @@
+[
+  {
+    "card_desc": "[Espeon ex] | Stage 1 Pokemon | HP:140 | Weak:Darkness | Retreat:1 | Ability: Once during your turn, if this Pokémon is in the Active Spot, you may heal 30 damage from 1 of your Pokémon. | Rule: When your Pokémon <strong>ex</strong> is <strong>Knocked Out</strong>, your opponent gets <strong>2</strong> points.",
+    "card_rank": "S"
+  },
+  {
+    "card_desc": "[Sylveon ex] | Stage 1 Pokemon | HP:140 | Weak:Metal | Retreat:1 | Ability: Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards. | Rule: When your Pokémon <strong>ex</strong> is <strong>Knocked Out</strong>, your opponent gets <strong>2</strong> points.",
+    "card_rank": "S"
+  },
+  {
+    "card_desc": "[Giratina ex] | Basic Pokemon | HP:150 | Weak:Darkness | Retreat:2 | Ability: Once during your turn, you may take a <span class=\"energy-text energy-text--type-psychic\"></span> Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends. | Attacks: {PPPC} Chaotic Impact 130 - This Pokémon also does 20 damage to itself. | Rule: When your Pokémon <strong>ex</strong> is <strong>Knocked Out</strong>, your opponent gets <strong>2</strong> points.",
+    "card_rank": "S"
+  },
+  {
+    "card_desc": "[Darkrai ex] | Basic Pokemon | HP:140 | Weak:Grass | Retreat:2 | Ability: Whenever you attach a <span class=\"energy-text energy-text--type-darkness\"></span> Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent’s Active Pokémon. | Attacks: {DDC} Dark Prism 80 | Rule: When your Pokémon <strong>ex</strong> is <strong>Knocked Out</strong>, your opponent gets <strong>2</strong> points.",
+    "card_rank": "S"
+  },
+  {
+    "card_desc": "[Eevee] | Basic Pokemon | HP:60 | Weak:Fighting | Retreat:1 | Attacks: {C} Growl - During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage. | Text: Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Pichu] | Basic Pokemon | HP:30 | Weak:UNSPECIFIED | Retreat:0 | Text: It is unskilled at storing electric power. Any kind of shock causes it to discharge energy spontaneously.",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Magby] | Basic Pokemon | HP:30 | Weak:UNSPECIFIED | Retreat:0 | Text: This Pokémon is still small and timid. Whenever Magby gets excited or surprised, flames leak from its mouth and its nose.",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Sylveon] | Stage 1 Pokemon | HP:90 | Weak:Metal | Retreat:1 | Text: This Pokémon uses its ribbonlike feelers to send a soothing aura into its opponents, erasing their hostility.",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Espeon] | Stage 1 Pokemon | HP:100 | Weak:Darkness | Retreat:1 | Text: The tip of its forked tail quivers when it is predicting its opponent’s next move.",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Celesteela] | Basic Pokemon | HP:120 | Weak:Lightning | Retreat:4 | Ability: Once during your turn, you may switch your Active Ultra Beast with 1 of your Benched Ultra Beasts. | Text: One of the dangerous UBs, high energy readings can be detected coming from both of its huge arms.",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Silvally] | Stage 1 Pokemon | HP:110 | Weak:Fighting | Retreat:1 | Text: This is its form once it has awakened and evolved. Freed from its heavy mask, its speed is greatly increased.",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Naganadel] | Stage 1 Pokemon | HP:100 | Weak:Fighting | Retreat:2 | Text: It stores hundreds of liters of poisonous liquid inside its body. It is one of the organisms known as UBs.",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Guzzlord ex] | Basic Pokemon | HP:170 | Weak:Grass | Retreat:4 | Rule: When your Pokémon <strong>ex</strong> is <strong>Knocked Out</strong>, your opponent gets <strong>2</strong> points.",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Nihilego] | Basic Pokemon | HP:70 | Weak:Fighting | Retreat:1 | Ability: Your opponent’s Active Pokémon takes +10 damage from being Poisoned. | Text: A life-form from another world, it was dubbed a UB and is thought to produce a strong neurotoxin.",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Zeraora] | Basic Pokemon | HP:90 | Weak:Fighting | Retreat:1 | Ability: At the end of your first turn, take a <span class=\"energy-text energy-text--type-lightning\"></span> Energy from your Energy Zone and attach it to this Pokémon. | Text: It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they’ll be electrocuted by the flying sparks.",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Kartana] | Basic Pokemon | HP:60 | Weak:Fire | Retreat:1 | Text: This Ultra Beast’s body, which is as thin as paper, is like a sharpened sword.",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Pheromosa] | Basic Pokemon | HP:70 | Weak:Fire | Retreat:1 | Text: A life-form that lives in another world, its body is thin and supple, but it also possesses great power.",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Buzzwole ex] | Basic Pokemon | HP:140 | Weak:Fire | Retreat:2 | Rule: When your Pokémon <strong>ex</strong> is <strong>Knocked Out</strong>, your opponent gets <strong>2</strong> points.",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Oricorio] | Basic Pokemon | HP:70 | Weak:Darkness | Retreat:1 | Text: This form of Oricorio has sipped purple nectar. It uses ethereal dance steps to call forth the spirits of the dead.",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Charizard ex] | Stage 2 Pokemon | HP:180 | Weak:Water | Retreat:3 | Attacks: {R} Stoke - Take 3 {R} Energy from your Energy Zone and attach it to this Pokémon. | {RRRCC} Steam Artillery 150 | Rule: When your Pokémon <strong>ex</strong> is <strong>Knocked Out</strong>, your opponent gets <strong>2</strong> points.",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Greninja] | Stage 2 Pokemon | HP:120 | Weak:Lightning | Retreat:1 | Ability: Once during your turn, you may do 20 damage to 1 of your opponent’s Pokémon. | Attacks: {WC} Mist Slash 60 | Text: It creates throwing stars out of compressed water.  When it spins them and throws them at high speed,  these stars can split metal in two.",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Lugia ex] | Basic Pokemon | HP:150 | Weak:Lightning | Retreat:2 | Rule: When your Pokémon <strong>ex</strong> is <strong>Knocked Out</strong>, your opponent gets <strong>2</strong> points.",
+    "card_rank": "A"
+  },
+  {
+    "card_desc": "[Crobat ex] | Stage 2 Pokemon | HP:170 | Weak:Fighting | Retreat:1 | Rule: When your Pokémon <strong>ex</strong> is <strong>Knocked Out</strong>, your opponent gets <strong>2</strong> points.",
+    "card_rank": "A"
+  },
+  {
+    "card_desc": "[Ho-Oh ex] | Basic Pokemon | HP:150 | Weak:Lightning | Retreat:2 | Rule: When your Pokémon <strong>ex</strong> is <strong>Knocked Out</strong>, your opponent gets <strong>2</strong> points.",
+    "card_rank": "A"
+  },
+  {
+    "card_desc": "[Snorlax ex] | Basic Pokemon | HP:160 | Weak:Fighting | Retreat:4 | Ability: At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it. | Rule: When your Pokémon <strong>ex</strong> is <strong>Knocked Out</strong>, your opponent gets <strong>2</strong> points.",
+    "card_rank": "A"
+  },
+  {
+    "card_desc": "[Eevee ex] | Basic Pokemon | HP:90 | Weak:Fighting | Retreat:1 | Ability: This Pokémon can evolve into any Pokémon that evolves from <a class=\"localized-string__link\" href=\"/pokemon/eevee/\">Eevee</a> if you play it from your hand onto this Pokémon. <em>(This Pokémon can’t evolve during your first turn or the turn you play it.)</em> | Rule: When your Pokémon <strong>ex</strong> is <strong>Knocked Out</strong>, your opponent gets <strong>2</strong> points.",
+    "card_rank": "A"
+  },
+  {
+    "card_desc": "[Flareon ex] | Stage 1 Pokemon | HP:150 | Weak:Water | Retreat:2 | Ability: Once during your turn, you may attach a <span class=\"energy-text energy-text--type-fire\"></span> Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon. | Rule: When your Pokémon <strong>ex</strong> is <strong>Knocked Out</strong>, your opponent gets <strong>2</strong> points.",
+    "card_rank": "A"
+  },
+  {
+    "card_desc": "[Solgaleo ex] | Stage 2 Pokemon | HP:180 | Weak:Fire | Retreat:2 | Ability: Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon. | Rule: When your Pokémon <strong>ex</strong> is <strong>Knocked Out</strong>, your opponent gets <strong>2</strong> points.",
+    "card_rank": "A"
+  },
+  {
+    "card_desc": "[Leafeon ex] | Stage 1 Pokemon | HP:140 | Weak:Fire | Retreat:1 | Ability: Once during your turn, if this Pokémon is in the Active Spot, you may take a <span class=\"energy-text energy-text--type-grass\"></span> Energy from your Energy Zone and attach it to 1 of your <span class=\"energy-text energy-text--type-grass\"></span> Pokémon. | Rule: When your Pokémon <strong>ex</strong> is <strong>Knocked Out</strong>, your opponent gets <strong>2</strong> points.",
+    "card_rank": "A"
+  },
+  {
+    "card_desc": "[Rampardos] | Stage 2 Pokemon | HP:150 | Weak:Grass | Retreat:2 | Attacks: {F} Head Smash 130 - If your opponent's Pokémon is Knocked Out by damage from this attack, this Pokémon also does 50 damage to itself. | Text: In ancient times, people would dig up fossils of this Pokémon and use its skull, which is harder than steel, to make helmets.",
+    "card_rank": "A"
+  },
+  {
+    "card_desc": "[Magnezone] | Stage 2 Pokemon | HP:140 | Weak:Fire | Retreat:2 | Ability: If you have <a class=\"localized-string__link\" href=\"/pokemon/arceus/\">Arceus</a> or <a class=\"localized-string__link\" href=\"/pokemon/arceus-ex/\">Arceus ex</a> in play, this Pokémon takes −30 damage from attacks. | Attacks: {MMC} Power Beam 80 | Text: As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin while transmitting signals of unknown purpose.",
+    "card_rank": "A"
+  },
+  {
+    "card_desc": "[Magneton] | Stage 1 Pokemon | HP:80 | Weak:Fighting | Retreat:2 | Ability: Once during your turn, you may take a <span class=\"energy-text energy-text--type-lightning\"></span> Energy from your Energy Zone and attach it to this Pokémon. | Text: Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",
+    "card_rank": "A"
+  },
+  {
+    "card_desc": "[Flareon] | Stage 1 Pokemon | HP:110 | Weak:Water | Retreat:2 | Text: Inhaled air is carried to its flame sac, heated,  and exhaled as fire that reaches over 3,000  degrees Fahrenheit.",
+    "card_rank": "A"
+  },
+  {
+    "card_desc": "[Skarmory ex] | Basic Pokemon | HP:140 | Weak:Fire | Retreat:2 | Rule: When your Pokémon <strong>ex</strong> is <strong>Knocked Out</strong>, your opponent gets <strong>2</strong> points.",
+    "card_rank": "B"
+  },
+  {
+    "card_desc": "[Donphan ex] | Stage 1 Pokemon | HP:160 | Weak:Grass | Retreat:3 | Rule: When your Pokémon <strong>ex</strong> is <strong>Knocked Out</strong>, your opponent gets <strong>2</strong> points.",
+    "card_rank": "B"
+  },
+  {
+    "card_desc": "[Magcargo] | Stage 1 Pokemon | HP:120 | Weak:Water | Retreat:3 | Text: Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
+    "card_rank": "B"
+  },
+  {
+    "card_desc": "[Dragonite ex] | Stage 2 Pokemon | HP:180 | Weak:UNSPECIFIED | Retreat:2 | Rule: When your Pokémon <strong>ex</strong> is <strong>Knocked Out</strong>, your opponent gets <strong>2</strong> points.",
+    "card_rank": "B"
+  },
+  {
+    "card_desc": "[Lucario] | Stage 1 Pokemon | HP:100 | Weak:Psychic | Retreat:2 | Ability: Attacks used by your <span class=\"energy-text energy-text--type-fighting\"></span> Pokémon do +20 damage to your opponent’s Active Pokémon. | Attacks: {FF} Submarine Blow 40 | Text: It’s said that no foe can remain invisible to Lucario, since it can detect auras—even those of foes it could not otherwise see.",
+    "card_rank": "B"
+  },
+  {
+    "card_desc": "[Leafeon] | Stage 1 Pokemon | HP:90 | Weak:Fire | Retreat:1 | Text: When you see Leafeon asleep in a patch of sunshine, you’ll know it is using photosynthesis to produce clean air.",
+    "card_rank": "B"
+  },
+  {
+    "card_desc": "[Silver] | Supporter | Rule: You may play only 1 Supporter card during your turn.",
+    "card_rank": "S"
+  },
+  {
+    "card_desc": "[Lusamine] | Supporter Supporter | Rule: You may play only 1 Supporter card during your turn.",
+    "card_rank": "S"
+  },
+  {
+    "card_desc": "[Lillie] | Supporter Supporter | Rule: You may play only 1 Supporter card during your turn.",
+    "card_rank": "S"
+  },
+  {
+    "card_desc": "[Will] | Supporter | Rule: You may play only 1 Supporter card during your turn.",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Poison Barb] | Pokémon Tool",
+    "card_rank": "A+"
+  },
+  {
+    "card_desc": "[Squirt Bottle] | Item | Rule: You may play any number of Item cards during your turn.",
+    "card_rank": "C"
+  },
+  {
+    "card_desc": "[Lum Berry] | Tool Pokémon Tool",
+    "card_rank": "C"
+  },
+  {
+    "card_desc": "[Cyrus] | Supporter Supporter | Rule: You may play only 1 Supporter card during your turn.",
+    "card_rank": "S"
+  },
+  {
+    "card_desc": "[Magikarp] | Basic Pokemon | HP:30 | Weak:Lightning | Retreat:1 | Text: An underpowered, pathetic Pokémon. It may jump high on rare occasions but never more than seven feet.",
+    "card_rank": "C"
+  },
+  {
+    "card_desc": "[Swirlix] | Basic Pokemon | HP:60 | Weak:Metal | Retreat:1 | Text: It eats its own weight in sugar every day. If it doesn’t get enough sugar, it becomes incredibly grumpy.",
+    "card_rank": "D"
+  },
+  {
+    "card_desc": "[Tangela] | Basic Pokemon | HP:80 | Weak:Fire | Retreat:2 | Text: Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon’s true appearance remains a mystery.",
+    "card_rank": "D"
+  },
+  {
+    "card_desc": "[Cyclizar] | Basic Pokemon | HP:80 | Weak:Fighting | Retreat:1 | Attacks: {C} Overacceleration 20 - During your next turn, this Pokémon's Overacceleration attack does +20 damage. | Text: Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
+    "card_rank": "B"
+  }
+]
