@@ -1,0 +1,3 @@
+- create another model but classify card abilities
+- hand curate dataset
+- S, A, B, C, D (none)
