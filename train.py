@@ -7,11 +7,13 @@ from trl import SFTConfig, SFTTrainer
 from unsloth import FastLanguageModel
 from unsloth.chat_templates import get_chat_template, train_on_responses_only
 
-# Constants
 LABELS = ["S", "A+", "A", "B", "C", "D"]
 LABEL_REGEX = re.compile(r"^(S|A\+|A|B|C|D)\b")
-SYSTEM_PROMPT = """You are a Pokemon Pocket (mobile game) TCG card ranker.
-Reply with ONE label from this set exactly: S, A+, A, B, C, or D"""
+SYSTEM_PROMPT = """
+You are a Pokemon Pocket (mobile game) TCG card ranker.
+Reply with ONE label from this set exactly:
+S, A+, A, B, C, or D
+"""
 
 MODEL_NAME = "unsloth/Qwen2.5-1.5B-Instruct-bnb-4bit"
 MAX_SEQ_LENGTH = 1024
